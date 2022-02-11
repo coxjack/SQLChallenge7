@@ -18,7 +18,7 @@ Challenge 7 for Butler Data Science
 
 	  - Retiring Titles
 
-![Retiring Titles]()
+![Retiring Titles](https://github.com/coxjack/SQLChallenge7/blob/main/additional%20supporting%20images/RT.png)
 
 * Retirement Titles & Unique Titles
 	- These two tables give us essentially the same data. The retirement_titles table includes all iterations of an employee while unique titles narrows it down to only an employee's most recent position. Since there is non-current duplicates in the retirement titles table -- it makes sense to focus our analysis on the unique_titles table.
@@ -30,7 +30,7 @@ Challenge 7 for Butler Data Science
 
 	  - Mentorship Eligibility
 
-![ME]()
+![ME](https://github.com/coxjack/SQLChallenge7/blob/main/additional%20supporting%20images/ME.png)
 	
 ## 3. Summary
 ### 
@@ -39,7 +39,7 @@ Challenge 7 for Butler Data Science
 
 	  - Total Potential Retirees
 
-![Unique Titles]()
+![Unique Titles](https://github.com/coxjack/SQLChallenge7/blob/main/additional%20supporting%20images/UT.png)
 
 * Are there enough qualified, retirement-ready employees in the departments to mentor the next generation of Pewlett Hackard employees?
 	- No, from the select count query ran for the mentorship_eligibility table -- we can see there are only 1,549 employees that fit the mentorship conditions. Every mentorship candidate would have to mentor ~46 employees in order to have a mentor for every retiring position. 
